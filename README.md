@@ -6,3 +6,5 @@ Este repositório tem o propósito de familiarizar o aluno com a interface do Gi
 ### English version
 # My Pacetech Repository for GitHub
 ## Pacetech Programming for Beginners course Repository
+
+This repository intends to provide the students with the proper familiarization to use the GitHub interface, as well as to 
