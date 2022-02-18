@@ -7,7 +7,7 @@ Sylvio Carneiro Júnior - sylviocjr.dev@gmail.com - Blumenau, SC - Brasil
 
 ### English version
 # My Pacetech Repository for GitHub
-## Pacetech Programming for Beginners course Repository
+## Pacetech Programming for Beginners Repository
 
 This repository intends to provide the students with the proper familiarization to use the GitHub interface, as well as to host and share the project codes practised and wrote during this programming course for beginners.
 
