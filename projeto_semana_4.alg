@@ -15,9 +15,7 @@ escreval()
 escreva("Informe a cotação do Dólar Americano: ")
 leia (cotacaoDolar)
 
-
 continuar <- verdadeiro
-
 
 repita
 
@@ -49,13 +47,11 @@ repita
             tempFahrenheit <- 1.8 * tempCelsius + 32
             escreval(tempCelsius, "ºC equivale(m) a ", tempFahrenheit:2:2, "ºF.")
 
-
         caso "2"
             escreva("Informe a temperatura em ºFahrenheit: ")
             leia(tempFahrenheit)
             tempCelsius <- (tempFahrenheit - 32) / 1.8
             escreval(tempFahrenheit, "ºF equivale(m) a ", tempCelsius:2:2, "ºC.")
-
 
         caso "3"
             escreva("Informe o valor em Reais(R$): ")
@@ -63,13 +59,11 @@ repita
             valorDolares <- valorReais / cotacaoDolar
             escreval("R$ ", valorReais:2:2, " equivale(m) a US$ ", valorDolares:2:2, " de acordo com a cotação atual.")
 
-
         caso "4"
             escreva("Informe o valor em Dólares(US$): ")
             leia(valorDolares)
             valorReais <- valorDolares * cotacaoDolar
             escreval("US$ ", valorDolares:2:2, " equivale(m) a R$ ", valorReais:2:2, " de acordo com a cotação atual.")
-
 
         caso "5"
             interrompa
