@@ -1,4 +1,4 @@
-algoritmo "Aumento Salarial - 2ª Versão"
+algoritmo "Aumento Salarial - 3ª Versão"
 // Função : Calcular o valor de um salário após um percentual de aumento, tendo como entradas
 // o salário base e o reajuste salarial em porcentagem.
 // Autor : Pacer Sylvio Carneiro Júnior - sylviocjr.dev@gmail.com - Blumenau, SC - Brasil.
