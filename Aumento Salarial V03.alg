@@ -1,7 +1,8 @@
 algoritmo "Aumento Salarial - 2ª Versão"
-// Função : Retornar o valor de um salário informado com um incremento de 30%
-// Autor : Sylvio Carneiro Júnior - sylviocjr.dev@gmail.com - Blumenau, SC - Brasil
-// Data : 18/02/2022
+// Função : Calcular o valor de um salário após um percentual de aumento, tendo como entradas
+// o salário base e o reajuste salarial em porcentagem.
+// Autor : Pacer Sylvio Carneiro Júnior - sylviocjr.dev@gmail.com - Blumenau, SC - Brasil.
+// Data : 01/03/2022.
 
 var
 
