@@ -2,10 +2,13 @@
 Trabalho final do curso de Introdução à Programação - Pacetech
 Pacer Sylvio Carneiro Júnior
 Blumenau, SC - 29 de março de 2022
-Atualização: 03 abr. 2022
+Atualização: 04 abr. 2022
 */
 package TrabalhoFinal;
 
+/**
+ * @author Sylvio Carneiro Junior
+ */
 
 public class MinhaCalculadoraEntrega extends javax.swing.JFrame {
 
@@ -541,15 +544,15 @@ public class MinhaCalculadoraEntrega extends javax.swing.JFrame {
             resultado = num1 + num2;
         }
         
-        if (subtrair) {
+        else if (subtrair) {
             resultado = num1 - num2;
         }
         
-        if (multiplicar) {
+        else if (multiplicar) {
             resultado = num1 * num2;
         }
         
-        if (dividir) {
+        else {
             resultado = num1 / num2;
         }
         
